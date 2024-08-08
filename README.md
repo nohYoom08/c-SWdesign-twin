@@ -28,6 +28,10 @@
 <img width = 600 height = 300 src="https://github.com/user-attachments/assets/0a53a6cd-87b1-4427-867f-76c5ca58356b">
 <br>
 
+### 일시정지 화면
+<img width = 600 height = 300 src="https://github.com/user-attachments/assets/698b49ad-5891-4b26-b5e2-2af197ac573e">
+<br>
+
 ### 스테이지 클리어 화면
 <img width = 600 height = 300 src="https://github.com/user-attachments/assets/dba3cc59-b0d5-4a91-b9bc-11370adf752c">
 <br><br>
