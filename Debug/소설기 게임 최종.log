@@ -1,0 +1,73 @@
+﻿  main.c
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\Data_Module.h(98,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\Data_Module.h(99,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\Data_Module.h(137,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\Data_Module.h(63,7): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(588,46): warning C4013: 'Pause'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(606,58): warning C4047: '함수': 'char (*)[1]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(606,45): warning C4024: 'DeleteCharacter': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(612,58): warning C4047: '함수': 'char (*)[1]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(612,45): warning C4024: 'DeleteCharacter': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1582,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1582,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1633,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1633,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1670,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1670,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1709,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1709,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1749,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1749,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1780,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1780,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1864,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1879,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(1879,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2399,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2409,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2420,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2431,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2444,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2455,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2467,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2478,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2489,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2500,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2512,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2523,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2534,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2545,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2556,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2567,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2578,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2589,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2600,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2611,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2622,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2633,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2644,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2655,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2666,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2677,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2688,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2699,9): warning C4033: 'BlockDown_Character'은(는) 값을 반환해야 합니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2766,17): warning C4098: 'ShiftLeft_Character': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(3915,99): warning C4047: '함수': 'char (*)[1]'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(3915,85): warning C4024: 'DetectCollision_Character': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(3917,99): warning C4047: '함수': 'char (*)[1]'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(3917,85): warning C4024: 'DetectCollision_Character': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(3973,95): warning C4047: '함수': 'char (*)[1]'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(3973,81): warning C4024: 'DetectCollision_Character': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(3975,95): warning C4047: '함수': 'char (*)[1]'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(3975,81): warning C4024: 'DetectCollision_Character': 형식 및 실제 매개 변수 3의 형식이 서로 다릅니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(4088,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(4088,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(4125,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(4125,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(4229,52): warning C4028: 정식 매개 변수 3이(가) 선언과 다릅니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(4262,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(4262,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(4282,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(4282,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\vtr18\source\repos\소설기 게임 최종\소설기 게임 최종\main.c(2714): warning C4715: 'BlockDown_Character': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  소설기 게임 최종.vcxproj -> C:\Users\vtr18\source\repos\소설기 게임 최종\Debug\소설기 게임 최종.exe
